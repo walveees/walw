@@ -13,7 +13,7 @@
 
 + Места где я активный пользователь
 
-<a href="https://discord.gg/tp8Mytu">
+<a href="https://discord.gg/ZvPRUgzyBX">
   <img align="left" alt="Discord" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/discord.svg" />
 </a>
 
