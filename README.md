@@ -3,8 +3,8 @@
 Добро пожаловать в мой профиль или же склад инфы.
 @ Я програмирую на JS/TS.
 ### Мои проекты
-- [MyBot](https://discord.com/api/oauth2/authorize?client_id=921391061031604264&permissions=8&scope=bot)
-- [AmenBot](https://discord.com/api/oauth2/authorize?client_id=899347037374517248&permissions=8&scope=bot)
+- [ToYour](none)
+- [AmenBot](https://discord.com/api/oauth2/authorize?client_id=902935472614015076&permissions=8&scope=bot)
 
 + **Мой спектор языков и инструментов:**
 
